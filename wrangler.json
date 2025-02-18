@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "hidden-snowflake-d725",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "3688b95d-1bee-491b-a25e-b7969d7bd6ba",
+      "database_name": "hidden-snowflake-d725-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
